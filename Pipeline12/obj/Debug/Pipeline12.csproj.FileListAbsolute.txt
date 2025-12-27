@@ -1,0 +1,7 @@
+D:\DevOps_Practice\Pipeline12\Pipeline12\bin\Debug\Pipeline12.exe.config
+D:\DevOps_Practice\Pipeline12\Pipeline12\bin\Debug\Pipeline12.exe
+D:\DevOps_Practice\Pipeline12\Pipeline12\bin\Debug\Pipeline12.pdb
+D:\DevOps_Practice\Pipeline12\Pipeline12\obj\Debug\Pipeline12.csproj.AssemblyReference.cache
+D:\DevOps_Practice\Pipeline12\Pipeline12\obj\Debug\Pipeline12.csproj.CoreCompileInputs.cache
+D:\DevOps_Practice\Pipeline12\Pipeline12\obj\Debug\Pipeline12.exe
+D:\DevOps_Practice\Pipeline12\Pipeline12\obj\Debug\Pipeline12.pdb
